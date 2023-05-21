@@ -17,7 +17,7 @@ class opciones extends StatelessWidget {
       home: MediaQuery(
         data: MediaQuery.of(context),
         child: Scaffold(
-          backgroundColor: Color.fromARGB(255, 0, 0, 0),
+          backgroundColor: Color.fromARGB(255, 254, 254, 254),
           appBar: AppBar(
             title: Text('Firebase'),
             backgroundColor: Color.fromARGB(255, 0, 0, 0),
@@ -33,7 +33,7 @@ class opciones extends StatelessWidget {
                 ),
                 SizedBox(height: 5.0),
                 Container(
-                  height: categories.length * 90.0,
+                  height: categories.length * 120.0,
                   child: ListView.builder(
                     scrollDirection: Axis.vertical,
                     itemCount: categories.length,
