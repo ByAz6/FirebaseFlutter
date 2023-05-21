@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">100181594028-4i9d8c3p48tth1fuevpjiikvmu7q1so6.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">100181594028</string>
+    <string name="google_api_key" translatable="false">AIzaSyCjbB6PCTMOXmSJlmoVpB_QtGI-UbgATGc</string>
+    <string name="google_app_id" translatable="false">1:100181594028:android:d7677199de8a4a4bb57409</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCjbB6PCTMOXmSJlmoVpB_QtGI-UbgATGc</string>
+    <string name="google_storage_bucket" translatable="false">parcialflutter2.appspot.com</string>
+    <string name="project_id" translatable="false">parcialflutter2</string>
+</resources>
